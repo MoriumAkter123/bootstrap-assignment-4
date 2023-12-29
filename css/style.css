@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+.nav-custom:hover{
+    color:aliceblue;
+}
+.navber-custom{
+    background-color: purple;
+}
+.nav-custom{
+    color: aqua;
+}
+.text-custom{
+    font-size: x-large;
+    color: darkmagenta;
+}
+.btn-custom{
+    color: beige;
+}
+.nav-contact-custom{
+    background-color: purple; 
+}
+
+
